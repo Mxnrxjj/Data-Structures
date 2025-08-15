@@ -55,7 +55,7 @@ int main()
 	cout<<endl;
 
     // 4(e)
-    int c; cin>>c;
+    char c; cin>>c;
     if(c >= 'a' && c <= 'z') {
         c -= 32;
     }
